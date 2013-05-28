@@ -24,6 +24,7 @@ setup(
         install_requires=[
             'distribute',
             'thrift_client',
+            'scribe',
         ],
         tests_require=[
             'nose',
